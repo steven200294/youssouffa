@@ -1,12 +1,32 @@
-# React + Vite
+# Site Web de Youssoupha - Amour Suprême
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site web officiel de Youssoupha Mabiki présentant son dernier album "Amour Suprême".
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ce site présente l'univers de Youssoupha, rappeur franco-congolais reconnu pour ses textes puissants et engagés. Le site met en avant son dernier projet "Amour Suprême", qui dévoile une facette plus apaisée et spirituelle de l'artiste.
 
-## Expanding the ESLint configuration
+## Fonctionnalités
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Design responsive pour mobile et desktop
+- Présentation de l'album "Amour Suprême"
+- Biographie de l'artiste
+- Section tournée
+- Menu de navigation avec logo
+
+## Technologies utilisées
+
+- React + Vite
+- Tailwind CSS
+- JavaScript ES6+
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## À propos de Youssoupha
+
+Youssoupha Mabiki est un rappeur franco-congolais, fils du légendaire chanteur Tabu Ley Rochereau. Il s'impose comme une voix majeure du rap français avec des albums comme "Noir Désir" et "NGRTD".
